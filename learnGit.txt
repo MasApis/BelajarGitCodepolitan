@@ -48,3 +48,4 @@ Membatalkan perubahan dari commit, staging area, atau working directory, tergant
 GIT Melakukan commit, mempraktekan diff dan log
 Memberikan pesan pada perubahan yang sudah dilakukan
 - git commit -M "file belajar"
+- git log (digunakan untuk melihat prubahan apa yang sudah di commit)
