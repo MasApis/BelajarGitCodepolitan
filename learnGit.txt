@@ -1,0 +1,50 @@
+Create 
+- git init
+- git clone
+
+Make a Change
+- git add <File>
+- git add .
+- git commit -m "<Message>"
+- git reset <Fie>
+- git reset --hard
+
+Observe
+- git status
+- git diff
+- git show
+- git log
+
+Sync
+- git push
+- git pull
+- git fetch
+
+Branch
+- git Branch
+- git checkout
+- git merge
+- git tag.
+
+GIT Menginisialisasi project dengan git Init dan mencoba clone
+Menginisialisasi git nya dengan cara
+- git init
+
+Mengkloning project orang lain dengan cara
+- git clone https://github.com/42rev/Simple-Maintenance-Page.git
+
+GIT Menambahkan file baru, dan melakukan git add
+fungsinya git add, adalah untuk memberi tahu Git bahwa file atau perubahan tertentu siap untuk di-commit.
+- git add index.html (Menambahkan file tertentu)
+- git add . (Menambahkan semua file yang telah berubah)
+- git add *.txt (ini akan Menambahkan file dengan ekstensi .txt)
+- git add project/style/app.css (menambahkan file di folder tertentu)
+
+GIT Reset perubahan file dengan git Reset
+Membatalkan perubahan dari commit, staging area, atau working directory, tergantung mode yang digunakan.
+- git reset app.css (Membatalkan perubahan pada file tertentu)
+- git reset * (Membatalkan seluruh perubahan)
+
+GIT Melakukan commit, mempraktekan diff dan log
+Memberikan pesan pada perubahan yang sudah dilakukan
+- git commit -M "file belajar"
