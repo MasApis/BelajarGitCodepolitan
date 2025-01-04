@@ -49,6 +49,7 @@ GIT Melakukan commit, mempraktekan diff dan log
 Memberikan pesan pada perubahan yang sudah dilakukan
 - git commit -M "file belajar"
 - git log (digunakan untuk melihat prubahan apa yang sudah di commit)
+- git diff (digunakan untuk melihat perbedaan perubahan dalam kode sebelum atau sesudah di-commit)
 
 Memberikan identitas nama dan email pada saat commit sesuatu
 - git config --global user.email "abdulhafidz3105@gmail.com"
