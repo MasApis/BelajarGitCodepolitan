@@ -59,5 +59,7 @@ Sync
 - git push (berfungsi mengupload dari lokal ke online)
 - git pull (berfungsi menarik perubahan dari online ke lokal)
 - git fetch (digunakan untuk mengambil perubahan terbaru dari remote repository tanpa menggabungkannya (merge) ke branch lokal.)
+- git pull origin main (mengambil perubahan yang ada di online ke lokal)
+
 - git remote add origin https://github.com/MasApis/BelajarGitCodepolitan.git (berfungsi untuk menambahkan URL repository remote ke repository Git lokal kamu.)
 - git branch -M main (digunakan untuk set branch utama ke main)
