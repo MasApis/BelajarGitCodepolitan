@@ -54,3 +54,8 @@ Memberikan pesan pada perubahan yang sudah dilakukan
 Memberikan identitas nama dan email pada saat commit sesuatu
 - git config --global user.email "abdulhafidz3105@gmail.com"
 - git config --global user.name "abdul hafidz"
+
+Sync
+- git push (berfungsi mengupload dari lokal ke online)
+- git pull (berfungsi menarik perubahan dari online ke lokal)
+- git fetch (digunakan untuk mengambil perubahan terbaru dari remote repository tanpa menggabungkannya (merge) ke branch lokal.)
