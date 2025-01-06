@@ -67,7 +67,12 @@ Sync
 Branch
 - git branch (digunakan untuk mengecek branch)
 - git merge (digunakan untuk menyatukan branch)
-- git tag (digunakan untuk menandai sebuah fitur)
+- git tag (digunakan untuk menandai sebuah milestone/versi)
 - git branch -M main (digunakan untuk set branch utama ke main)
 - git checkout Fitur-A (digunakan untuk berpindah-pindah branch)
 - git branch -D Fitur-B (digunakan untuk menghapus sebuah branch)
+
+- git tag -a "v1.0" (membuat sebuah milestone/versi)
+- git tag (melihat milestone yang sudah dibuat)
+- git push origin main --tags (untuk mengepush tag yang di lokal ke online)
+- git tag -d "v1.0" (digunakan untuk menghapus tag)
