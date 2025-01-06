@@ -63,6 +63,11 @@ Sync
 - git fetch (berfungsi mengambil data yang ada di server tanpa mengganggu perubahan yang ada di lokal kita)
 
 - git remote add origin https://github.com/MasApis/BelajarGitCodepolitan.git (berfungsi untuk menambahkan URL repository remote ke repository Git lokal kamu.)
+
+Branch
+- git branch (digunakan untuk mengecek branch)
+- git merge (digunakan untuk menyatukan branch)
+- git tag (digunakan untuk menandai sebuah fitur)
 - git branch -M main (digunakan untuk set branch utama ke main)
 - git checkout Fitur-A (digunakan untuk berpindah-pindah branch)
 - git branch -D Fitur-B (digunakan untuk menghapus sebuah branch)
