@@ -64,3 +64,4 @@ Sync
 
 - git remote add origin https://github.com/MasApis/BelajarGitCodepolitan.git (berfungsi untuk menambahkan URL repository remote ke repository Git lokal kamu.)
 - git branch -M main (digunakan untuk set branch utama ke main)
+- git checkout Fitur-A (digunakan untuk berpindah-pindah branch)
